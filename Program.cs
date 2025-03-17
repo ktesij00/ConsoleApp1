@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("novo");
-            console.writeline("novo2");
+            Console.WriteLine("novo2");
         }
     }
 }

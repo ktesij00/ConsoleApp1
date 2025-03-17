@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     internal class NewClass
     {
-        int numb = 123;
+        int numb = 123456;
+        int br = 0;
     }
 }
